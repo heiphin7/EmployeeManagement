@@ -15,12 +15,12 @@ EmployeeManager - Это приложение для работы с сотру�
 
 # Stack
 
-Java
-JavaFX
-IDE
-SQL (PostgreSQL)
-XML
-CSS (for SceneBuilder)
+Java, 
+JavaFX, 
+IDE, 
+SQL (PostgreSQL), 
+XML, 
+CSS (for SceneBuilder), 
 JDBC(for DataBase)
 
 
